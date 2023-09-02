@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devrezaur</groupId>
-	<artifactId>SpringBootQuizApp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootQuizApp</name>
+	<artifactId>app</artifactId>
+	<version>1.0</version>
+	<name>app</name>
 	<description>Simple quiz application using Spring Boot &amp; MySQL</description>
 	<properties>
 		<java.version>15</java.version>
