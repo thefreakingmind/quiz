@@ -1,5 +1,5 @@
 # Use an official AdoptOpenJDK base image with Java 17
-FROM adoptopenjdk/openjdk17:alpine-jre
+FROM amazoncorretto:17.0.7-alpine
 
 # Set the working directory inside the container
 WORKDIR /app
